@@ -1,2 +1,6 @@
 这是我的一次练习操作
-好像这个上传操作应该需要先进行   git  init    然后在 git commmit  -m "这里边是对这次修改的说明"    最后进行git push
+
+1.我们在和本地仓库进行建立的时候,应该先 定位到 cd 我们的文件夹   ,在写  命令 git clone SSH类型的地址   在进行各种操作
+2. git status 是得到文件库中的文件    ls 进入当前文件夹,
+
+3.好像这个上传操作应该需要先进行   git  init    然后在 git commmit  -m "这里边是对这次修改的说明"    最后进行git push
